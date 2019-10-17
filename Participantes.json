@@ -1,12 +1,19 @@
 0: 
 {
-nome: 'Lucas Rafaldini',
-email: 'lucas.rafaldini@gmail.com',
-telefone: '(11) 950488786',
-github: 'https://github.com/lucasrafaldini'
+  nome: 'Lucas Rafaldini',
+  email: 'lucas.rafaldini@gmail.com',
+  telefone: '(11) 950488786',
+  github: 'https://github.com/lucasrafaldini'
 },
 
 1:
+{
+  nome: 'Marcelo Oliveira',
+  email: 'marcello.henrique1994@gmail.com',
+  telefone: '(11) 94388-5228',
+  github: 'https://github.com/Vietnows'
+},
+2:
 {
 
 }
